@@ -1,0 +1,26 @@
+#aside-dni {
+    background-color: rgb(47, 128, 237);
+    height: 100%;
+    padding-left: 20%;
+    padding-top: 10%;
+    color: white;
+    border-bottom-right-radius: 60px;
+    clip-path: polygon(0 0, 100% 0%, 97% 100%, 0% 100%);
+}
+
+.texto-seguro {
+    font-weight: normal;
+}
+
+.texto-salud {
+    font-weight: bolder;
+}
+
+li {
+    list-style: none;
+}
+
+.list-icon {
+    display: inline-block;
+
+}
